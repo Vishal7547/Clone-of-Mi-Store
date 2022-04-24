@@ -1,0 +1,6 @@
+.effect img{
+    transform: all 0.5s;
+}
+.effect img:hover{
+    box-shadow: 6px 6px 15px rgba(53,53,53,0363);
+}

@@ -1,0 +1,21 @@
+.headDeasign{
+    display:flex;
+    justify-content:center;
+    /* flex-direction: row; */
+    align-items: center;
+    margin-top: 30px;
+
+}
+
+.headDeasign div{
+    background-color: rgba(39,39,39,0274);
+    height:1px;
+    width:30vw;
+}
+.headDeasign p{
+    margin:3vmax;
+    color:rgb(77,77,77);
+    font-size: 2.3vmax;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}

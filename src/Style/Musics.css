@@ -1,0 +1,19 @@
+.height{
+height: 325px;
+max-width:300px;
+border:none;
+outline :none;
+}
+.size{
+    max-width: 270px;
+    min-height: 200px;
+    margin:0px auto;
+   
+}
+.height{
+    transition: all 0.5s;
+}
+
+.height:hover{
+    box-shadow: 6px 6px 15px rgba(53,53,53,0363);
+}

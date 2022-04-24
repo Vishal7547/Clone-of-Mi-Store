@@ -1,0 +1,29 @@
+.v-cards{
+    width:30vmax;
+    height:48vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+.v-cards:hover a{
+    padding: 2.5vmax;
+    transition: all 0.5s;
+   border: none;
+   border-radius: 100%;
+   background-color: rgba(255,255,255,0.096);
+   color:white
+}
+
+.v-cards>a>svg{
+    fill:rgb(255, 255, 255);
+}
+
+.v-cards>p{
+    color:white;
+    margin: 1vmax;
+}

@@ -1,0 +1,16 @@
+.shadow{
+    height:200px;
+   min-width: 200px;
+}
+
+/* .shadow {
+    transition: all 0.5s;
+}
+
+.shadow :hover{
+    box-shadow: 6px 6px 15px rgba(53,53,53,0363);
+} */
+
+.takeMargin{
+padding-bottom: 40px;
+}
