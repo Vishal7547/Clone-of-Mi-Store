@@ -5,7 +5,7 @@ import '../Style/Footer.css'
 function Footer() {
   return (
     <>
-<div className='footerColor  py-4'>
+<div className='footerColor  py-5'>
 
     <div className='row mx-5 py-5'>
   <div className='col-9 table-responsive'>
